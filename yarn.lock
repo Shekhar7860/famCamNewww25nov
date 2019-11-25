@@ -3067,8 +3067,9 @@ hawk@~6.0.2:
     sntp "2.x.x"
 
 hoek@4.x.x:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/hoek/-/hoek-4.2.0.tgz#72d9d0754f7fe25ca2d01ad8f8f9a9449a89526d"
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/hoek/-/hoek-4.2.1.tgz#9634502aa12c445dd5a7c5734b572bb8738aacbb"
+  integrity sha512-QLg82fGkfnJ/4iy1xZ81/9SIJiq1NGFUMGs6ParyjBZr6jW2Ufj/snDqTHixNlHdPNwN2RLVD0Pi3igeK9+JfA==
 
 hoist-non-react-statics@3.x.x, hoist-non-react-statics@^3.3.0:
   version "3.3.1"
@@ -5389,10 +5390,10 @@ react-native-country-picker-modal@^1.9.4:
     prop-types "15.7.2"
     react-async-hook "3.6.1"
 
-react-native-fast-image@5.1.2:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-fast-image/-/react-native-fast-image-5.1.2.tgz#c9b909993e9304736c3d9806df80f7a9705ef829"
-  integrity sha512-NZsuW36I4fqnlOuxh0ZY31Q7wGWSqZMOC0wtp7ZcSG2dmjXSFaSFTdxX2vJx4Dhm0tMT3qG4yrn2ob3BiZEudA==
+react-native-fast-image@^5.1.2:
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/react-native-fast-image/-/react-native-fast-image-5.4.2.tgz#d761cb9dddc0473b537544617e511a11c9e18413"
+  integrity sha512-S4E96Lwmx6z6QD3MaAuP7cNcXRLfgEUYU2GB694TbGEoOjk/FO1OnfbxfFp0vUs/klr4HJwACcwihPPxrFTt8w==
 
 react-native-fbsdk@^1.1.1:
   version "1.1.1"
